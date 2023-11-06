@@ -1,3 +1,5 @@
+# Prompt sample to demo prompt template
+
 from langchain.prompts import PromptTemplate
 from langchain.llms import OpenAI
 llm = OpenAI(temperature=0.9)

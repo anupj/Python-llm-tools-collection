@@ -1,3 +1,5 @@
+# Example of how to create an embedding and query a vector db in memory
+
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import Chroma
 from langchain.embeddings import OpenAIEmbeddings
