@@ -1,0 +1,12 @@
+name: bookproject
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.5
+  - langchain
+  - openai
+  - pydrive
+  - pandas
+  - rdflib
+  - SPARQLWrapper
